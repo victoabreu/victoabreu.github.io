@@ -6,8 +6,6 @@ categories: [OTOBO]
 tags: [otobo, tickets, helpdesk, chamados]
 ---
 
-# OTOBO - Sistema de Tickets e Chamados
-
 Em janeiro de 2021, a versão gratuita do OTRS foi oficialmente descontinuada pelos criadores. Na prática, isso representa uma enorme brecha de segurança para ambientes de produção mundo afora. Com tal anúncio diversos forks ganharam força e destaque na comunidade de administradores. Dentre eles: Znuny, OFORK e OTOBO.
 
 A interface do Znuny é bastante parecida com o OTRS 6, sendo uma ótima escolha para aqueles que não querem assustar seus usuários e clientes com algo novo. Já o OFORK implementa alguns recursos novos, por exemplo na gestão de processos.
