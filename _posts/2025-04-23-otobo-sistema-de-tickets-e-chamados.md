@@ -6,7 +6,7 @@ categories: [OTOBO]
 tags: [otobo, tickets, helpdesk, chamados]
 ---
 
-Em janeiro de 2021, a versão gratuita do OTRS foi oficialmente descontinuada pelos criadores. Na prática, isso representa uma enorme brecha de segurança para ambientes de produção mundo afora. Com tal anúncio diversos forks ganharam força e destaque na comunidade de administradores. Dentre eles: Znuny, OFORK e OTOBO.
+Em janeiro de 2021, a versão gratuita do [OTRS](https://otrs.com/pt/home/) foi oficialmente descontinuada pelos criadores. Na prática, isso representa uma enorme brecha de segurança para ambientes de produção mundo afora. Com tal anúncio diversos forks ganharam força e destaque na comunidade de administradores. Dentre eles: [Znuny](https://www.znuny.org/en), [OFORK](https://o-fork.de/) e [OTOBO](https://otobo.io/en/).
 
 A interface do Znuny é bastante parecida com o OTRS 6, sendo uma ótima escolha para aqueles que não querem assustar seus usuários e clientes com algo novo. Já o OFORK implementa alguns recursos novos, por exemplo na gestão de processos.
 
@@ -14,7 +14,7 @@ Escolhi o OTOBO como solução por se tratar de um visual totalmente repaginado 
 
 ## OTRS, uma breve história
 
-Tudo começa em 2001 como um projeto pessoal de Martin Edenhofer. O objetivo era criar um software de tickets para helpdesk. O mesmo publica e compartilha sob a condição de código aberto. Escrito na maior parte em Perl, sua interface web conta com o JavaScript para tornar as coisas mais amigáveis possíveis.
+Tudo começa em 2001 como um projeto pessoal de [Martin Edenhofer](https://github.com/martini). O objetivo era criar um software de tickets para helpdesk. O mesmo publica e compartilha sob a condição de código aberto. Escrito na maior parte em [Perl](https://www.perl.org/), sua interface web conta com o [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) para tornar as coisas mais amigáveis possíveis.
 
 Ganhando popularidade entre sysadmins, em 2003 é fundada a empresa OTRS GmbH (equivalente a Sociedade de Responsabilidade Limitada). Renomeada posteriormente para OTRS AG em 2007.
 
@@ -22,7 +22,7 @@ Em 2015 uma nova versão chamada OTRS Business Solution é lançada. Essa seria 
 
 Em dezembro de 2020, o Grupo OTRS anuncia o EOL (fim da vida) da versão opensource: ((OTRS)) Community Edition.
 
-Recentemente (2024) a EasyVista adquiriu a participação majoritária da OTRS AG.
+Recentemente (2024) a [EasyVista](https://www.easyvista.com/pt-pt/) adquiriu a participação majoritária da OTRS AG.
 
 ## OTOBO, uma breve história
 
