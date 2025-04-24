@@ -3,7 +3,7 @@ title: OTOBO - Sistema de Tickets e Chamados
 author: Victor Abreu
 date: 2025-04-23 16:33:00 -0300
 categories: [OTOBO]
-tags: [otobo][tickets][helpdesk][chamados]
+tags: [otobo, tickets, helpdesk, chamados]
 ---
 
 # OTOBO - Sistema de Tickets e Chamados
