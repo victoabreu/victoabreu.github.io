@@ -111,21 +111,21 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: disqus
+  provider: giscus
   # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
-    shortname: victoabreu-io # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: victoabreu/victoabreu.github.io
+    repo_id: R_kgDON4BB2w
+    category: Announcements
+    category_id: DIC_kwDON4BB284Cpj1J
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
