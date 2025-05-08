@@ -24,11 +24,25 @@ Em dezembro de **2020**, o Grupo OTRS anuncia o EOL (fim da vida) da versão ope
 
 Recentemente **(2024)** a [EasyVista](https://www.easyvista.com/pt-pt/) adquiriu a participação majoritária da OTRS AG.
 
-## Stefan Rother
+## O criador do OTOBO
 
 Coincidência ou não, a mente por trás do OTOBO trabalhou no OTRS liderando o suporte e a equipe interna de TI. O ano era **2004** e seu nome é [Stefan Rother](https://github.com/StefanRother-OTOBO). Ganhando expertise em sistemas de tickets e adepto da filosofia de código aberto, em **2011** Stefan funda sua própria empresa de nome Rother OSS. Especializada na implementação, personalização e operação do OTRS (até então gratuito).
 
-Tudo muda em **2019** quando eles decidem desenvolver o OTOBO propriamente dito baseado na versão ((OTRS)) Community Edition 6. O mesmo é lançado em **2020** com um desenho de interface totalmente novo e moderno, seguindo as melhores práticas de UX/UI.
+Tudo muda em **2019** quando eles decidem desenvolver o OTOBO propriamente dito baseado na versão ((OTRS)) Community Edition 6. O mesmo é lançado em **2020** com um desenho de interface totalmente novo e moderno, seguindo as melhores práticas de [UX/UI](https://en.wikipedia.org/wiki/User_experience_design).
 
-A título de curiosidade, algo similar ocorreu com o criador do OTRS, que também abriu uma empresa e hoje tem um produto chamado [Zammad](https://zammad.org/screenshots). Na prática é mais uma opção para sistema de helpdesk e tickets.
+A título de curiosidade, algo similar ocorreu com o criador do OTRS, que também abriu outra empresa e hoje tem um produto chamado [Zammad](https://zammad.org/screenshots). Na prática é mais uma opção para sistema de tickets e helpdesk.
+
+## Funcionalidades do OTOBO
+
+Tendo em mãos uma solução como o OTOBO, somos capazes de atingir três grandes pilares: IT Service Management (ITSM), Customer Service Management (CSM) e Enterprise Service Management (ESM).
+
+### Gerenciamento de Serviços de TI (ITSM)
+
+O OTOBO foi feito para planejar, implantar e gerenciar serviços de TI com mais eficiência. Padronizando e automatizando processos com as melhores práticas de [ITIL](https://pt.wikipedia.org/wiki/Information_Technology_Infrastructure_Library) para alcançar excelência e bons resultados.
+
+- Tickets Gerenciáveis
+
+Nele criamos, priorizamos, classificamos e atribuimos automaticamente incidentes e solicitações às equipes responsáveis para garantir a satisfação do cliente.
+
+- Service Desk
 
