@@ -3,7 +3,7 @@ title: OTOBO - Sistema de Tickets e Chamados
 author: Victor Abreu
 date: 2025-04-23 16:33:00 -0300
 categories: [OTOBO]
-tags: [otobo, tickets, helpdesk, chamados]
+tags: [otobo, ticket, helpdesk, itsm, itil]
 ---
 
 Em janeiro de **2021**, a versão gratuita do [OTRS](https://otrs.com/pt/home/) foi oficialmente descontinuada pelos criadores. Na prática, isso representa uma enorme brecha de segurança para ambientes de produção mundo afora. Com tal anúncio diversos forks ganharam força e destaque na comunidade de administradores. Dentre eles: [Znuny](https://www.znuny.org/en), [OFORK](https://o-fork.de/) e [OTOBO](https://otobo.io/en/).
@@ -29,21 +29,3 @@ Recentemente **(2024)** a [EasyVista](https://www.easyvista.com/pt-pt/) adquiriu
 Coincidência ou não, a mente por trás do OTOBO trabalhou no OTRS liderando o suporte e a equipe interna de TI. O ano era **2004** e seu nome é [Stefan Rother](https://github.com/StefanRother-OTOBO). Ganhando expertise em sistemas de tickets e adepto da filosofia de código aberto, em **2011** Stefan funda sua própria empresa de nome Rother OSS. Especializada na implementação, personalização e operação do OTRS (até então gratuito).
 
 Tudo muda em **2019** quando eles decidem desenvolver o OTOBO propriamente dito baseado na versão ((OTRS)) Community Edition 6. O mesmo é lançado em **2020** com um desenho de interface totalmente novo e moderno, seguindo as melhores práticas de [UX/UI](https://en.wikipedia.org/wiki/User_experience_design).
-
-A título de curiosidade, algo similar ocorreu com o criador do OTRS, que também abriu outra empresa e hoje tem um produto chamado [Zammad](https://zammad.org/screenshots). Na prática é mais uma opção para sistema de tickets e helpdesk.
-
-## Funcionalidades do OTOBO
-
-Tendo em mãos uma solução como o OTOBO, somos capazes de atingir três grandes pilares: IT Service Management ([ITSM](https://www.ibm.com/br-pt/topics/it-service-management)), Customer Service Management (CSM) e Enterprise Service Management (ESM).
-
-### Gerenciamento de Serviços de TI (ITSM)
-
-O OTOBO foi feito para planejar, implantar e gerenciar serviços de TI com maior eficiência. Padronizando e automatizando processos com as melhores práticas de [ITIL](https://pt.wikipedia.org/wiki/Information_Technology_Infrastructure_Library) para alcançar excelência e bons resultados.
-
-### Gestão de Atendimento ao Cliente (CSM)
-
-Com o OTOBO provemos soluções rápidas e comunicação transparente em praticamente todos os canais. Aumentando a produtividade das equipes, oferencendo a possibilidade de autoatendimento e mantendo os custos operacionais sob controle.
-
-### Gestão de Serviços Empresariais (ESM)
-
-Orquestramos todos os serviços corporativos de provedores internos e externos em uma plataforma unificada. Resolvemos solicitações com mais rapidez, comunicamos melhor e garantimos a satisfação dos funcionários.
