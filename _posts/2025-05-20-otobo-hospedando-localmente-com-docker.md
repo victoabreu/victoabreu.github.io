@@ -1,6 +1,6 @@
 ---
 title: OTOBO - Hospedando Localmente com Docker
-author: victoabreu
+author: Victor Abreu
 date: 2025-05-20 18:15:00 -0300
 categories: [OTOBO]
 tags: [otobo, docker, ticket, helpdesk]

@@ -1,6 +1,6 @@
 ---
 title: OTOBO - Sistema de Tickets e Chamados
-author: victoabreu
+author: Victor Abreu
 date: 2025-04-23 16:33:00 -0300
 categories: [OTOBO]
 tags: [otobo, ticket, helpdesk, itsm, itil]
