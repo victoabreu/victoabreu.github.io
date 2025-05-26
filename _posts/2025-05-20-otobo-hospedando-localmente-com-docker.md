@@ -18,3 +18,11 @@ Tendo em mente, agora precisamos rodá-lo localmente em nosso ambiente. Para iss
 
 Inicialmente o Docker foi construído para ambientes Linux. O kernel do Linux apresenta particularidades como [cgroups](https://en.wikipedia.org/wiki/Cgroups) e [namespaces](https://en.wikipedia.org/wiki/Linux_namespaces) para separar processos uns dos outros. Felizmente o tempo passou e hoje temos versões para Windows e MacOS. Nomeada Docker Desktop podemos baixá-la [aqui](https://www.docker.com/products/docker-desktop/) de acordo com o sistema operacional preferido. Siga as instruções e ao final abra o programa para acessar a tela principal (dashboard).
 
+![Docker Desktop](/assets/img/posts/otobo-hospedando-localmente-com-docker/docker-dashboard.png)
+
+## Instalando com Docker e Docker Compose
+
+Para instalar vamos precisar de alguns comandos via terminal. O Docker Desktop já vem com um integrado ao próprio ambiente. Para acessar localize o mesmo no canto inferior direito conforme a figura:
+
+![Docker Terminal](/assets/img/posts/otobo-hospedando-localmente-com-docker/docker-terminal.png)
+
