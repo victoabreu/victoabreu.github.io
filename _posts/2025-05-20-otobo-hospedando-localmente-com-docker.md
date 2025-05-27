@@ -21,10 +21,8 @@ Inicialmente o Docker foi construído para ambientes Linux. O kernel do Linux ap
 ![Docker Desktop](/assets/img/posts/otobo-hospedando-localmente-com-docker/docker-dashboard.png)
 
 > No Linux é necessário instalar os pacotes manualmente. Para tal execute os seguintes comandos:
-{: .prompt-info }
-> sudo apt-get install git docker docker-compose curl
-{: .prompt-info }
-> sudo systemctl enable docker
+    **sudo apt-get install git docker docker-compose curl**
+    **sudo systemctl enable docker**
 {: .prompt-info }
 
 ## Instalando com Docker e Docker Compose
