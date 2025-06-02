@@ -35,7 +35,9 @@ Uma vez dentro, podemos clonar o repositório do GitHub. Escolha uma pasta para 
 
 ```bash
 cd /opt
-git clone https://github.com/RotherOSS/otobo-docker.git --branch rel-10_1_10 --single-branch
+sudo git clone https://github.com/RotherOSS/otobo-docker.git --branch rel-10_1_10 --single-branch
 cd otobo-docker
-ls
+ls -la
 ```
+
+Agora criamos um arquivo `.env` contendo variáveis de ambiente da nossa instalação. Quando executarmos o Docker Compose tal [arquivo](https://github.com/RotherOSS/otobo-docker/blob/rel-10_1/.docker_compose_env_https) será usado para apontar e preencher automaticamente as [configurações](https://github.com/RotherOSS/otobo-docker/blob/rel-10_1/docker-compose/otobo-override-https.yml) que estão no formato YAML.
