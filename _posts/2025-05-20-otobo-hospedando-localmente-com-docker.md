@@ -40,4 +40,28 @@ cd otobo-docker
 ls -la
 ```
 
-Agora criamos um arquivo `.env` contendo variáveis de ambiente da nossa instalação. Quando executarmos o Docker Compose tal [arquivo](https://github.com/RotherOSS/otobo-docker/blob/rel-10_1/.docker_compose_env_https) será usado para apontar e preencher automaticamente as [configurações](https://github.com/RotherOSS/otobo-docker/blob/rel-10_1/docker-compose/otobo-override-https.yml) que estão no formato YAML.
+Agora criamos um arquivo `.env` contendo variáveis de ambiente da nossa instalação. Quando executarmos o comando `docker compose` tal [arquivo](https://github.com/RotherOSS/otobo-docker/blob/rel-10_1/.docker_compose_env_http) será usado para definir as [configurações](https://github.com/RotherOSS/otobo-docker/tree/rel-10_1/docker-compose) que queremos e que estão no formato YAML.
+
+```bash
+cp -p .docker_compose_env_http .env
+```
+
+Edite o mesmo para adicionar uma senha ao banco de dados (a versão padrão é MariaDB). Procure a seguinte linha e defina uma password.
+
+```yaml
+OTOBO_DB_ROOT_PASSWORD=<your_secret_password>
+```
+
+Chegou a hora de iniciarmos os containers!!! Simplesmente execute o comando:
+
+```bash
+docker-compose up --detach
+```
+
+E para maiores detalhes, rode esses outros dois:
+
+```bash
+docker-compose ps
+docker volume ls
+```
+
