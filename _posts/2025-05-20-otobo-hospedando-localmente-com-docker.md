@@ -40,7 +40,7 @@ cd otobo-docker
 ls -la
 ```
 
-Agora criamos um arquivo `.env` contendo variáveis de ambiente da nossa instalação. Quando executarmos o comando `docker compose` tal [arquivo](https://github.com/RotherOSS/otobo-docker/blob/rel-10_1/.docker_compose_env_http) define qual a [configuração](https://github.com/RotherOSS/otobo-docker/tree/rel-10_1/docker-compose) será carregada no formato YAML.
+Agora criamos um arquivo `.env` contendo variáveis de ambiente da nossa instalação. Quando executarmos o comando `docker compose` tal [arquivo](https://github.com/RotherOSS/otobo-docker/blob/rel-10_1/.docker_compose_env_http) define qual [configuração](https://github.com/RotherOSS/otobo-docker/tree/rel-10_1/docker-compose) será carregada no formato YAML.
 
 ```bash
 sudo cp -p .docker_compose_env_http .env
@@ -74,3 +74,20 @@ Antes de começar a usá-lo de fato, primeiro temos que confirmar alguns dados. 
 
 <http://localhost/otobo/installer.pl>
 
+![OTOBO License](/assets/img/posts/otobo-hospedando-localmente-com-docker/otobo-license.png)
+
+Clique em próximo para aceitar a licença.
+
+![OTOBO Database](/assets/img/posts/otobo-hospedando-localmente-com-docker/otobo-database.png)
+
+Selecione o tipo como MySQL. E a tabela como NOVA. Informe a senha de ROOT presente no arquivo `.env`. Clique no botão CONEXÃO. Em seguida, próximo.
+
+![OTOBO Mail](/assets/img/posts/otobo-hospedando-localmente-com-docker/otobo-mail.png)
+
+Defina um ID do sistema (para um ou mais servidores na rede local). Defina o tipo HTTP. Defina um hostname (FQDN). Defina um email de administrador. Defina um nome para a organização. Defina o idioma padrão. Ao final da página, próximo novamente.
+
+![OTOBO Welcome](/assets/img/posts/otobo-hospedando-localmente-com-docker/otobo-welcome.png)
+
+Está feito!!!!! Clique no link mostrado na tela e copie e cole as credenciais geradas pelo sistema.
+
+![OTOBO Dashboard](/assets/img/posts/otobo-hospedando-localmente-com-docker/otobo-dashboard.png)
