@@ -6,7 +6,7 @@ categories: [OTOBO]
 tags: [otobo, docker, ticket, helpdesk]
 ---
 
-Para conhecer o OTOBO leia esse [post](https://victoabreu.io/posts/otobo-sistema-de-tickets-e-chamados/). Nele explico como surgiu, qual a relação com o OTRS e afins.
+Para conhecer o OTOBO leia o post anterior. Nele explico como surgiu, qual a relação com o OTRS e afins.
 
 Tendo em mente, agora precisamos rodá-lo localmente em nosso ambiente. Para isso vamos precisar de outra tecnologia chamada [conteinerização](https://www.ibm.com/br-pt/think/topics/containerization), ou simplesmente, contêineres.
 
