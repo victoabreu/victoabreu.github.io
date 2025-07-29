@@ -40,7 +40,7 @@ cd otobo-docker
 ls -la
 ```
 
-Agora criamos um arquivo `.env` contendo variáveis de ambiente da nossa instalação. Quando executarmos o comando `docker compose` tal [arquivo](https://github.com/RotherOSS/otobo-docker/blob/rel-10_1/.docker_compose_env_http) será responsável por definir qual(is) a(s) [configuração(ões)](https://github.com/RotherOSS/otobo-docker/tree/rel-10_1/docker-compose) será(ão) carregada(s) no formato YAML.
+Agora criamos um arquivo `.env` contendo variáveis de ambiente da nossa instalação. Quando executarmos o comando `docker compose` tal [arquivo](https://github.com/RotherOSS/otobo-docker/blob/rel-10_1/.docker_compose_env_http) define qual a [configuração](https://github.com/RotherOSS/otobo-docker/tree/rel-10_1/docker-compose) será carregada no formato YAML.
 
 ```bash
 sudo cp -p .docker_compose_env_http .env
@@ -67,4 +67,10 @@ E para maiores detalhes, rode esses outros dois:
 docker-compose ps
 docker volume ls
 ```
+
+## Acessando via WEB
+
+Antes de começar a usá-lo de fato, primeiro temos que confirmar alguns dados. Faça isso através do instalador web do OTOBO. Abra um navegador e digite:
+
+<http://localhost/otobo/installer.pl>
 
