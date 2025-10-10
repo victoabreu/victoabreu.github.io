@@ -26,6 +26,6 @@ Recentemente **(2024)** a [EasyVista](https://www.easyvista.com/pt-pt/) adquiriu
 
 ## O criador do OTOBO
 
-Coincidência ou não, a mente por trás do OTOBO trabalhou no OTRS liderando o suporte e a equipe interna de TI. O ano era **2004** e seu nome é [Stefan Rother](https://github.com/StefanRother-OTOBO). Ganhando expertise em sistemas de tickets e adepto da filosofia de código aberto, em **2011** Stefan funda sua própria empresa de nome Rother OSS. Especializada na implementação, personalização e operação do OTRS (até então gratuito).
+Coincidência ou não, a mente por trás do OTOBO trabalhou no OTRS liderando o suporte e a equipe interna de TI. O ano era **2004** e seu nome é [Stefan Rother](https://github.com/StefanRother-OTOBO). Acumulando expertise em sistemas de tickets e adepto da filosofia de código aberto, em **2011** Stefan funda sua própria empresa de nome Rother OSS. Especializada na implementação, personalização e operação do OTRS (até então gratuito).
 
 Tudo muda em **2019** quando eles decidem desenvolver o OTOBO propriamente dito baseado na versão ((OTRS)) Community Edition 6. O mesmo é lançado em **2020** com um desenho de interface totalmente novo e moderno, seguindo as melhores práticas de [UX/UI](https://en.wikipedia.org/wiki/User_experience_design).
