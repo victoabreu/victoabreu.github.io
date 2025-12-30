@@ -14,8 +14,12 @@ Para acessar digite ou clique no endereço abaixo:
 
 ![OTOBO Demo Page](/assets/img/posts/otobo-demo-online/otobo-demo-page.png)
 
-O primeiro ícone refere-se a tela dos atendentes (também chamados de agentes). Na prática, eles são a equipe de TI ou qualquer outra de setores distintos. Lembrando que um sistema de tickets pode ser usado pelo RH, financeiro, administrativo, etc. O ideal é que o OTOBO seja utilizado pela empresa inteira, evitando assim que cada setor tenha seu próprio sistema.
+O primeiro ícone refere-se a tela dos atendentes (também chamados de agentes). Na prática, somos nós, a equipe de TI (ou qualquer outra). Lembrando que um sistema de tickets pode ser usado pelo RH, financeiro, administrativo, etc. O ideal é que o OTOBO seja utilizado pela empresa inteira, evitando assim que cada setor tenha seu próprio sistema.
 
-Já o segundo trata da tela dos usuários "comuns". Esses sim serão seus clientes e portanto, não devem ter acesso a todos os recursos do OTOBO. Apenas o que você definir e permitir será exibido.
+Já o segundo trata da tela dos usuários "comuns". Esses sim serão nossos clientes e portanto, não devem ter acesso a todos os recursos do OTOBO. Apenas o que definirmos e permitirmos será exibido.
 
-Dito as diferenças, veja que as credenciais estão bem fáceis. Login e senha são os mesmos para cada situação. Clique no botão **TRY NOW** e informe.
+Dito as diferenças, veja que as credenciais estão bem fáceis. Login e senha são os mesmos mas específicos para cada situação. Clique no botão **TRY NOW** e informe de acordo.
+
+![OTOBO index.pl](/assets/img/posts/otobo-demo-online/otobo-index-pl.png)
+
+![OTOBO customer.pl](/assets/img/posts/otobo-demo-online/otobo-customer-pl.png)
