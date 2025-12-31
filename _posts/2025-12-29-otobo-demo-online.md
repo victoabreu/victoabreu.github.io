@@ -23,3 +23,11 @@ Dito as diferenças, veja que as credenciais estão bem fáceis. Login e senha s
 ![OTOBO index.pl](/assets/img/posts/otobo-demo-online/otobo-index-pl.png)
 
 ![OTOBO customer.pl](/assets/img/posts/otobo-demo-online/otobo-customer-pl.png)
+
+Sinta-se livre para testar cada uma das interfaces. Mas lembre-se que devido aos idealizadores serem alemães, sua língua materna é bastante utilizada nos tickets em questão. Talvez a maioria esmagadora, salvo alguns que apresentam o inglês.
+
+Contudo, o idioma das páginas está definido como padrão americano.
+
+Em um futuro próximo, pretendo abordar novamente o OTOBO para demonstrar o fluxo de um chamado completo.
+
+### Até lá `:)`
