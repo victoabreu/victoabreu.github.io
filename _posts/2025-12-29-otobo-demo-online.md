@@ -21,8 +21,10 @@ Já o segundo trata da tela dos usuários "comuns". Esses sim serão nossos clie
 Dito as diferenças, veja que as credenciais estão bem fáceis. Login e senha são os mesmos mas específicos para cada situação. Clique no botão **TRY NOW** e informe de acordo.
 
 ![OTOBO index.pl](/assets/img/posts/otobo-demo-online/otobo-index-pl.png)
+_Visão para atender chamados_
 
 ![OTOBO customer.pl](/assets/img/posts/otobo-demo-online/otobo-customer-pl.png)
+_Visão para abrir chamados_
 
 Sinta-se livre para testar cada uma das interfaces. Mas lembre-se que devido aos idealizadores serem alemães, sua língua materna é bastante utilizada nos tickets em questão. Talvez a maioria esmagadora, salvo alguns que apresentam o inglês.
 
@@ -30,4 +32,4 @@ Contudo, o idioma das páginas está definido como padrão americano.
 
 Em um futuro próximo, pretendo abordar novamente o OTOBO para demonstrar o fluxo de um chamado completo.
 
-### Até lá `:)`
+#### Até lá `:)`
