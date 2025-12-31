@@ -13,6 +13,7 @@ Para acessar digite ou clique no endereço abaixo:
 <https://otobo.io/en/service-management-platform/otobo-demo/>
 
 ![OTOBO Demo Page](/assets/img/posts/otobo-demo-online/otobo-demo-page.png)
+_Página da demo_
 
 O primeiro ícone refere-se a tela dos atendentes (também chamados de agentes). Na prática, somos nós, a equipe de TI (ou qualquer outra). Lembrando que um sistema de tickets pode ser usado pelo RH, financeiro, administrativo, etc. O ideal é que o OTOBO seja utilizado pela empresa inteira, evitando assim que cada setor tenha seu próprio sistema.
 
