@@ -4,6 +4,9 @@ author: victoabreu
 date: 2025-05-20 18:15:00 -0300
 categories: [OTOBO]
 tags: [otobo, docker, ticket, helpdesk]
+image:
+  path: /assets/img/posts/otobo-hospedando-localmente-com-docker/otobo_in_docker.png
+  alt: Imagem meramente ilustrativa devido a direitos autorais
 ---
 
 Para conhecer o OTOBO leia o post anterior. Nele explico como surgiu, qual a relação com o OTRS e afins.
