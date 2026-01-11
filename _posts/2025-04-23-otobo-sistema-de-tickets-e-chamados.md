@@ -4,6 +4,7 @@ author: victoabreu
 date: 2025-04-23 16:33:00 -0300
 categories: [OTOBO]
 tags: [otobo, ticket, helpdesk, itsm, itil]
+image: https://www.dropbox.com/scl/fi/fyk64rb9zofj9t4daq83t/otobo_is_a_fork.png?rlkey=fopyolw27cdpgw9dlf0bjct82&dl=0
 ---
 
 Em janeiro de **2021**, a versão gratuita do [OTRS](https://otrs.com/pt/home/) foi oficialmente descontinuada pelos criadores. Na prática, isso representa uma enorme brecha de segurança para ambientes de produção mundo afora. Com tal anúncio diversos forks ganharam força e destaque na comunidade de administradores. Dentre eles: [Znuny](https://www.znuny.org/en), [OFORK](https://o-fork.de/) e [OTOBO](https://otobo.io/en/).
