@@ -5,7 +5,7 @@ date: 2025-04-23 16:33:00 -0300
 categories: [OTOBO]
 tags: [otobo, ticket, helpdesk, itsm, itil]
 image:
-  path: /assets/img/posts/otobo-sistema-de-tickets-e-chamados/otobo_is_a_fork.png
+  path: /assets/img/posts/otobo-sistema-de-tickets-e-chamados/otobo_is_a_fork_of_otrs.png
   alt: Imagem meramente ilustrativa devido a direitos autorais
 ---
 
