@@ -4,6 +4,9 @@ author: victoabreu
 date: 2025-12-29 23:32:24 -0300
 categories: [OTOBO]
 tags: [otobo, otrs, fork, ticket, helpdesk, itsm, demo]
+image:
+  path: /assets/img/posts/otobo-demo-online/otobo_has_a_demo.png
+  alt: Imagem meramente ilustrativa devido a direitos autorais
 ---
 
 Versões demonstrativas, ou simplesmente demos, são excelentes maneiras de testar um software sem necessariamente ter que instalá-lo. Pensando nisso, a empresa responsável pelo OTOBO disponibilizou uma sessão online para simular as duas principais interfaces web do sistema. São elas: o agente e o cliente.
