@@ -17,23 +17,22 @@ Para ilustrar o seu potencial, a mesma necessita apenas de [Python](https://www.
 
 ## História
 
-### ANTES: CFEngine, Puppet e Chef
+#### Antes: CFEngine, Puppet e Chef
 
 No passado, propostas similares ao Ansible, principalmente para gerenciamento de configuração, necessitavam de agentes em cada nó. Isso acabava consumindo recursos (memória, armazenamento, processsamento, rede) dos hospedeiros. Os resultados muitas vezes eram arquiteturas master-slave enormes e complexas, dificultando o entendimento e expansão.
 
 Bons exemplos são [CFEngine](https://cfengine.com/), [Puppet](https://www.puppet.com/) e [Chef](https://www.chef.io/).
 
-### CRIADOR: Michael DeHaan
+#### Criador: Michael DeHaan
 
 O autor do Ansible trabalhou na [Red Hat](https://www.redhat.com/pt-br) e criou o [Cobbler](https://cobbler.github.io/). Um servidor de provisionamento de múltiplos sistemas operacionais por meio da rede. Ele também foi co-autor do "Fedora Unified Network Controller" a.k.a FUNC. Sendo esse um framework para administração remota. Na prática, outro sistema de automação.
 
 Com todo esse conhecimento, em 2012, [Michael DeHann](https://opensource.com/users/mpdehaan) escreve o Ansible e compartilha no [GitHub](https://github.com/ansible/ansible).
 
-### 2013: Ansible, Inc. (originalmente AnsibleWorks, Inc.)
+#### 2013: Ansible, Inc. (originalmente AnsibleWorks, Inc.)
 
 É fundada a empresa para suporte comercial e patrocínio da ferramenta. Por DeHaan, Timothy Gerla, and Saïd Ziouani.
 
-### 2015: Red Hat
+#### 2015: Ansible by Red Hat
 
 Compra do Ansible pela Red Hat por aproxidamente 150 milhões de dólares americanos. Com a promessa de manter a natureza opensource, expandir o desenvolvimento e preservar a comunidade existente.
-
