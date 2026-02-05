@@ -5,7 +5,7 @@ date: 2025-12-29 23:32:24 -0300
 categories: [OTOBO]
 tags: [otobo, otrs, fork, ticket, helpdesk, itsm, demo]
 image:
-  path: /assets/img/posts/otobo-demo-online/otobo_has_a_demo_page.png
+  path: /assets/img/posts/otobo-demo-online/otobo_demo.png
   alt: Imagem meramente ilustrativa devido a direitos autorais
 ---
 
