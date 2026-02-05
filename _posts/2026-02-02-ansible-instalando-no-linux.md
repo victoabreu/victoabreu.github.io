@@ -5,7 +5,7 @@ date: 2026-02-02 13:19:16 -0300
 categories: [Ansible]
 tags: [ansible, linux, ubuntu, debian, fedora, opensuse, archlinux, python, pip]
 image:
-  path: /assets/img/posts/ansible-instalando-no-linux/ansible_+_linux.png
+  path: /assets/img/posts/ansible-instalando-no-linux/ansible_plus_tux.png
   alt: Imagem meramente ilustrativa devido a direitos autorais
 ---
 
