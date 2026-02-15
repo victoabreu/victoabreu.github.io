@@ -3,7 +3,7 @@ title: VirtualBox - Virtualizando Hardware (Hipervisores)
 author: victoabreu
 date: 2026-02-10 04:45:01 -0300
 categories: [VirtualBox]
-tags: [virtualbox, hypervisor, vm, desktop]
+tags: [virtualbox, hypervisor, vm, desktop, x86]
 image:
   path: /assets/img/posts/virtualbox-virtualizando-hardware-hipervisores/virtualbox_new.png
   alt: Imagem meramente ilustrativa devido a direitos autorais
@@ -25,10 +25,10 @@ _Tipo 1 e Tipo 2_
 
 ## Innotek Systemberatung GmbH, a origem
 
-O [VirtualBox](https://www.oracle.com/br/virtualization/virtualbox/) foi criado pela Innotek GmbH, uma empresa alemã especializada em consultoria e suporte de sistemas legados, como o [OS/2](https://pt.wikipedia.org/wiki/OS/2) da IBM. Graças a essa vasta experiência, eles foram capazes de moldar uma plataforma de virtualização para arquiteturas x86 com foco em computadores pessoais comuns (Windows, Linux e macOS). Durante um período em que virtualizar era majoritariamente caro e restrito, a Innotek levou essa tecnologia para o desktop, tornando-a acessível a desenvolvedores, estudantes e pequenas organizações.
+O [VirtualBox](https://www.oracle.com/br/virtualization/virtualbox/) foi criado pela Innotek GmbH, uma empresa alemã especializada em consultoria e suporte de sistemas legados, como o [OS/2](https://pt.wikipedia.org/wiki/OS/2) da IBM. Graças a essa experiência, eles foram capazes de moldar uma plataforma de virtualização para arquiteturas x86 com foco em computadores pessoais comuns (Windows, Linux e macOS). Durante um período em que virtualizar era majoritariamente caro e restrito, a Innotek levou essa tecnologia para o desktop, tornando-a acessível a desenvolvedores, estudantes e pequenas organizações.
 
-Em **2007**, a Innotek decide liberar o código do VirtualBox como software opensource sob a licença [GPL](https://pt.wikipedia.org/wiki/GNU_General_Public_License), mantendo apenas alguns componentes avançados sob licença comercial. Essa abordagem acelerou a adoção mundial da ferramenta, estimulou o surgimento de uma comunidade ativa e consolidou o VirtualBox como padrão em ambientes educacionais, laboratórios e times de desenvolvimento. A facilidade de uso, aliada a recursos como snapshots, clonagem e integração com o sistema hospedeiro, ajudou a popularizar conceitos que hoje são centrais na engenharia de software moderna.
+Em **2007**, a Innotek decide liberar o código do VirtualBox sob a licença [GPL](https://pt.wikipedia.org/wiki/GNU_General_Public_License), mantendo apenas alguns componentes avançados sob licença comercial. Essa abordagem acelerou a adoção mundial da ferramenta, estimulou o surgimento de uma comunidade ativa e consolidou o VirtualBox como padrão em ambientes educacionais, laboratórios e times de desenvolvimento. A facilidade de uso, aliada a recursos como snapshots, clonagem e integração com o sistema hospedeiro, ajudou a popularizar conceitos que hoje são centrais na engenharia de software moderna.
 
-O VirtualBox tornou-se a principal porta de entrada para a virtualização para milhões de profissionais, influenciando práticas que mais tarde evoluiriam para DevOps, infraestrutura como código e computação em nuvem. Em **2008**, a empresa foi adquirida pela [Sun Microsystems](https://pt.wikipedia.org/wiki/Sun_Microsystems), e em **2010**, com a aquisição da Sun pela [Oracle](https://www.oracle.com/br/), o legado da Innotek passou a integrar uma estratégia corporativa mais ampla.
+Sendo assim, o VirtualBox tornou-se a principal porta de entrada para milhões de profissionais, influenciando práticas que mais tarde evoluiriam para DevOps, infraestrutura como código e computação em nuvem. Em **2008**, a empresa foi adquirida pela [Sun Microsystems](https://pt.wikipedia.org/wiki/Sun_Microsystems), e em **2010**, com a aquisição da Sun pela [Oracle](https://www.oracle.com/br/), o legado da Innotek passou a integrar uma estratégia corporativa mais ampla.
 
 #### No próximo post ... Baixando, instalando o VirtualBox e criando a primeira VM manualmente
