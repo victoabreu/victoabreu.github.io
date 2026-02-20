@@ -23,4 +23,6 @@ Agora abra o programa e selecione o modo ***Expert*** para visualizar todas as o
 ![Home do VirtualBox](/assets/img/posts/virtualbox-criando-vm/virtualbox_home.png)
 _Página inicial_
 
-Antes de prosseguir e criar qualquer VM, precisamos baixar a ISO oficial do sistema operacional em questão.
+Antes de prosseguir e criar qualquer VM, precisamos baixar a ISO oficial do sistema operacional em questão. Escolhi o [Ubuntu](https://ubuntu.com/) como teste apenas para fins didáticos. Acesse o site e escolha a versão desktop com interface GNOME.
+
+<https://ubuntu.com/download/desktop>
