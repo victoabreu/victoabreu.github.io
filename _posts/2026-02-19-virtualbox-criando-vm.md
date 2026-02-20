@@ -19,3 +19,8 @@ Feito isso, execute o arquivo para iniciar o processo. Para a maioria das situa�
 _Próximo, próximo, próximo `:)`_
 
 Agora abra o programa e selecione o modo ***Expert*** para visualizar todas as opções disponíveis.
+
+![Home do VirtualBox](/assets/img/posts/virtualbox-criando-vm/virtualbox_home.png)
+_Página inicial_
+
+Antes de prosseguir e criar qualquer VM, precisamos baixar a ISO oficial do sistema operacional em questão.
