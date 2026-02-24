@@ -103,4 +103,3 @@ Revise suas escolhas e ao final clique em ***INSTALAR***
 
 ![Resumo](/assets/img/posts/virtualbox-criando-vm/ubuntu_resumo.png)
 _Sumário_
-
