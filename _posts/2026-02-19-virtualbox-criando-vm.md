@@ -103,3 +103,15 @@ Revise suas escolhas e ao final clique em ***INSTALAR***
 
 ![Resumo](/assets/img/posts/virtualbox-criando-vm/ubuntu_resumo.png)
 _Sumário_
+
+Quando solicitado, reinicie a VM.
+
+![Reiniciar](/assets/img/posts/virtualbox-criando-vm/ubuntu_reboot.png)
+_Reboot_
+
+Pronto! Basta começar a usar sua máquina virtual. Com o VirtualBox somos capazes de rodar sistemas de arquiteturas diferentes da nossa. Por exemplo, x86_64 -> arm64 ou arm64 -> x86_64.
+
+![Fastfetch](/assets/img/posts/virtualbox-criando-vm/ubuntu_terminal.png)
+_Terminal e informações do sistema_
+
+Em um post futuro pretendo demonstrar como automatizar todo esse processo de criação. Fiquem ligados!!!
