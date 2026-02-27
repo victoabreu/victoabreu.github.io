@@ -13,6 +13,9 @@ Para instalar o VirtualBox, clique no link abaixo e faça o download de acordo c
 
 <https://www.virtualbox.org/wiki/Downloads>
 
+![Vbox](/assets/img/posts/virtualbox-criando-vm/virtualbox_downloads.png)
+_Site (vbox)_
+
 Feito isso, execute o arquivo para iniciar o processo. Para a maioria das situações, o "bom" e velho padrão NEXT, NEXT, NEXT satisfaz muito bem os pré-requisitos. No caso do macOS é ainda mais fácil, dois cliques no ícone `.pkg` para adicionar na pasta ***Applications*** (confirme as instruções).
 
 ![Instalar no macOS](/assets/img/posts/virtualbox-criando-vm/virtualbox_install.png)
@@ -26,6 +29,9 @@ _Página inicial_
 Antes de prosseguir e criar qualquer VM, precisamos baixar a ISO oficial do sistema operacional em questão. Escolhi o [Ubuntu](https://ubuntu.com/) como teste apenas para fins didáticos. Acesse o site e escolha a versão desktop com interface GNOME.
 
 <https://ubuntu.com/download/desktop>
+
+![Desktop](/assets/img/posts/virtualbox-criando-vm/ubuntu_downloads.png)
+_Site (ubuntu)_
 
 Com tudo preparado, podemos começar. Clique no botão ***NOVO***. Escolha um nome para a máquina. Um padrão que vou adotar é: `Sistema Versão Propósito (Arquitetura)`. Caso queira mudar a localidade, crie uma nova pasta e aponte para a mesma. Selecione onde está a ISO baixada. Desmarque a opção `Unattended Installation`. Sem ela, o Ubuntu solicita dados (usuário, senha, hostname, etc) a serem definidos no primeiro setup. Com ela, a instalação se torna um pouco mais automatizada, "queimando" essas etapas.
 
@@ -109,7 +115,7 @@ Quando solicitado, reinicie a VM.
 ![Reiniciar](/assets/img/posts/virtualbox-criando-vm/ubuntu_reboot.png)
 _Reboot_
 
-Pronto! Basta começar a usar sua máquina virtual. Com o VirtualBox somos capazes de rodar sistemas de arquiteturas diferentes da nossa. Por exemplo, x86_64 -> arm64 ou arm64 -> x86_64.
+Pronto! Basta começar a usar sua máquina virtual. Com o VirtualBox somos capazes de rodar sistemas de arquiteturas iguais ou diferentes da nossa. Por exemplo, x86_64 → arm64 ou arm64 → x86_64.
 
 ![Fastfetch](/assets/img/posts/virtualbox-criando-vm/ubuntu_terminal.png)
 _Terminal e informações do sistema_
