@@ -9,7 +9,7 @@ image:
   alt: Imagem meramente ilustrativa devido a direitos autorais
 ---
 
-> **Você sabia que a [Docker, Inc.](https://en.wikipedia.org/wiki/Docker,_Inc.) não inventou os containers?** E tampouco (a empresa) se chamava assim?
+> **Você sabia que a [Docker, Inc.](https://en.wikipedia.org/wiki/Docker,_Inc.) não inventou os containers? E tampouco (a empresa) se chamava assim?**
 {: .prompt-info }
 
-A nossa história começa em 1979, com o lançamento do [Unix](https://www.unix.org/about.html) versão 7. Trata-se de um sistema operacional multitarefa e multiusuário, escrito em C, altamente portável para diferentes hardwares.
+A nossa história começa em **1979**, com o lançamento do [Unix](https://www.unix.org/about.html) versão 7. Trata-se de um sistema operacional multitarefa e multiusuário, escrito em C, altamente portável para diferentes hardwares.
