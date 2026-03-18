@@ -5,7 +5,7 @@ date: 2026-03-17 19:08:55 -0300
 categories: [Docker]
 tags: [docker, container, app]
 image:
-  path: /assets/img/posts/docker-empacotando-aplicacoes/docker-centered-optical.png
+  path: /assets/img/posts/docker-empacotando-aplicacoes/docker_centered_optical.png
   alt: Imagem meramente ilustrativa devido a direitos autorais
 ---
 
