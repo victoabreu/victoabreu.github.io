@@ -5,7 +5,7 @@ date: 2026-03-17 19:08:55 -0300
 categories: [Docker]
 tags: [docker, container, app]
 image:
-  path: /assets/img/posts/docker-empacotando-aplicacoes/docker_centered_optical.png
+  path: /assets/img/posts/docker-empacotando-aplicacoes/docker_new.png
   alt: Imagem meramente ilustrativa devido a direitos autorais
 ---
 
@@ -19,3 +19,10 @@ Mas voltando ao Unix V7, o mesmo introduziu um sistema chamada [chroot](https://
 Sem grandes avanços por quase duas décadas (no que hoje chamamos de isolamento de processos, ou virtualização de processos) foi somente em **2000** que um provedor de hospedagem web criou uma solução própria para gerenciamento de clientes, usando o FreeBSD, e batizando-a de [jails](https://en.wikipedia.org/wiki/FreeBSD_jail) (ou FreeBSD jails). Tendo em vista que até então os mesmos (clientes) disputavam por recursos no servidor, a partir daí o provedor conseguiu uma configuração exclusiva de IP e sistema por cliente. Na verdade, os créditos originais vão para o programador [Poul-Henning Kamp](https://people.freebsd.org/~phk/). E o nome da empresa (provedor) que o contratou era [R&D Associates, Inc](https://klarasystems.com/articles/freebsd-jails-the-beginning-of-freebsd-containers/).
 
 Em **2006** outro marco. Engenheiros da Google desenvolvem um mecanismo para organizar, limitar e monitorar recursos (CPU, memória, disco) de um conjunto de processos. Inicialmente restrita ao uso interno, a ideia deu tão certo que dois anos mais tarde **(2008)** foi incorporada ao kernel do Linux na versão 2.6.24. A mesma ficou conhecida como [Control Groups](https://docs.kernel.org/admin-guide/cgroup-v1/cgroups.html) mas abreviada para [cgroups](https://docs.kernel.org/admin-guide/cgroup-v1/).
+
+Ainda em **2008** é lançado o [LXC](https://linuxcontainers.org/lxc/introduction/) (LinuX Containers), o primeiro e mais completo sistema para gerenciamento de containers da época. O mesmo utilizava tecnologias como [namespaces](https://en.wikipedia.org/wiki/Linux_namespaces), o próprio `cgroups` e tantas outras. Tudo em um único kernel Linux, sem nenhum patch ou modificação, rodando nativamente.
+
+## dotCloud e o início de tudo
+
+O docker nasceu literalmente como uma ferramenta interna de um provedor de plataforma como serviço (PaaS) de segunda geração, chamado [dotCloud](https://www.infoq.com/news/2013/10/dotcloud-renamed-docker/). Diferente da primeira onda, onde manter várias versões de uma mesma linguagem (ou pilhas distintas) era muito difícil e custoso, aqui você facilmente provisionava seu(s) ambiente(s) num estalar de dedos. E tudo isso começou em **2008** com Solomon Hykes, Sebastien Pahl e Kamel Founadi.
+
