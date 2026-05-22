@@ -24,5 +24,12 @@ Ainda em **2008** é lançado o [LXC](https://linuxcontainers.org/lxc/introducti
 
 ## dotCloud e o início de tudo
 
-O docker nasceu literalmente como uma ferramenta interna de um provedor de plataforma como serviço (PaaS) de segunda geração, chamado [dotCloud](https://www.infoq.com/news/2013/10/dotcloud-renamed-docker/). Diferente da primeira onda, onde manter várias versões de uma mesma linguagem (ou pilhas distintas) era muito difícil e custoso, aqui você facilmente provisionava seu(s) ambiente(s) num estalar de dedos. E tudo isso começou em **2008** com Solomon Hykes, Sebastien Pahl e Kamel Founadi.
+O docker nasceu literalmente como uma ferramenta interna de um provedor de plataforma como serviço (PaaS) de segunda geração, chamado [dotCloud](https://www.infoq.com/news/2013/10/dotcloud-renamed-docker/). Diferente da primeira onda, onde manter várias versões de bibliotecas e ambientes de execução era muito difícil, quase impossível para novas linguagens de programação, aqui você facilmente provisionava seu(s) ambiente(s) num estalar de dedos. E tudo isso começou com [Solomon Hykes](https://www.docker.com/contributors/solomon-hykes/), [Sebastien Pahl](https://github.com/spahl) e [Kamel Founadi](https://www.linkedin.com/in/kamel-founadi-72a7b91/).
 
+Filho de pai americano e mãe canadense, a família de Hykes imigrou para a França quando ele tinha quatro anos. Desde sempre interessou-se por computadores e portanto começou a programar aos sete. Após o ensino médio, Hykes entra para a [Epitech](https://international.epitech.eu/). Renomada escola de engenharia avançada, Hykes e Pahl se tornam colegas e grandes amigos.
+
+Juntos fundam a dotCloud com Founadi, sediada em Paris. O ano era **2008** e concorrentes de grande peso já operavam no mercado, como [Google App Engine](https://cloud.google.com/appengine) e [Heroku](https://www.heroku.com/).
+
+A grande sacada inicial foi construir todo o seu modelo de hospedagem baseado na recém-lançada tecnologia de contêineres, o LXC. Com isso eles foram capazes de popularizar e abstrair conceitos complexos do Linux e administração de sistemas, tornando-a assim amigável ao usuário. Desenvolvedores de forma geral passaram a focar mais nas aplicações e menos nos servidores.
+
+Todavia, esse diferencial não estava se mostrando bom o suficiente para um meio cada vez mais acirrado e saturado de novos e velhos competidores. Por isso em **2013** houve uma mudança estratégica e de foco. Ao invés de continuar como um "mero" serviço de hospedagem web multilinguagem, agora todos os esforços iriam para o amadurecimento da plataforma de containers. Ou seja, melhorar cada vez mais a tecnologia por trás e "invisível".
