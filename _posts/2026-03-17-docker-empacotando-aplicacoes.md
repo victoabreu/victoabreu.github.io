@@ -32,4 +32,16 @@ Juntos fundam a dotCloud com Founadi, sediada em Paris. O ano era **2008** e con
 
 A grande sacada inicial foi construir todo o seu modelo de hospedagem baseado na recém-lançada tecnologia de contêineres, o LXC. Com isso eles foram capazes de popularizar e abstrair conceitos complexos do Linux e administração de sistemas, tornando-a assim amigável ao usuário. Desenvolvedores de forma geral passaram a focar mais nas aplicações e menos nos servidores.
 
-Todavia, esse diferencial não estava se mostrando bom o suficiente para um meio cada vez mais acirrado e saturado de novos e velhos competidores. Por isso em **2013** houve uma mudança estratégica e de foco. Ao invés de continuar como um "mero" serviço de hospedagem web multilinguagem, agora todos os esforços iriam para o amadurecimento da plataforma de containers. Ou seja, melhorar cada vez mais a tecnologia por trás e "invisível".
+Todavia, esse diferencial não estava se mostrando bom o suficiente para um meio cada vez mais acirrado e saturado de novos e velhos competidores. Por isso em **2013** houve uma mudança estratégica e de foco. Ao invés de continuar como um "mero" serviço de hospedagem web multilinguagem, agora todos os esforços iriam para o amadurecimento da plataforma de containers. Ou seja, melhorar cada vez mais a tecnologia por trás e "invisível". Na prática, a mesma ganhou status de produto e foi batizada oficialmente como Docker. Além disso, o código-fonte foi disponibilizado abertamente no [GitHub](https://github.com/shykes/docker/commit/a27b4b8cb8e838d03a99b6d2b30f76bdaf2f9e5d). No mesmo ano, durante a [PyCon](https://us.pycon.org/2013/), Hykes explica e apresenta o conceito de containers no Docker ao público presente. E finalmente, para coroar tal mudança de rumo, a própria dotCloud mudou de nome para Docker, Inc.
+
+## 2014: Docker 0.9
+
+A empresa troca o ambiente de execução da plataforma. Do LinuX Containers (LXC) para um novo chamado `'libcontainer'`. Escrito em [Go](https://go.dev/) e feito para melhor estabilidade.
+
+## 2015: Open Container Initiative
+
+A Docker auxilia na criação da [OCI](https://opencontainers.org/) como entidade responsável pelos padrões abertos para runtimes de contêineres e formatos de imagem, a serem adotados pela indústria.
+
+## 2017: Moby Project
+
+É criado um [projeto](https://mobyproject.org/) visando o desenvolvimento dos componentes gratuitos (open-source), distanciando um pouco da parte comercial.
